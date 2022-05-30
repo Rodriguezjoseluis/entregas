@@ -156,3 +156,11 @@ font-size: 30px;
     
 
 }
+
+.parent div img:hover{
+   transition-property:all ;
+   transition-duration: 2s;
+   transform: scale(1.7);
+  opacity: 9;
+  
+}
